@@ -1,8 +1,9 @@
 module.exports = {
+  pathPrefix: "/effective-english",
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
-    author: `Kyle Mathews`,
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    title: `Effective English`,
+    author: `Evgeny Leukhin`,
+    description: `Effective English Blog`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
     social: {
       twitter: `kylemathews`,
@@ -57,8 +58,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: `Effective English Blog`,
+        short_name: `Effective English`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,

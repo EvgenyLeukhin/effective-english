@@ -4,8 +4,17 @@
   "description": "Effective english Blog",
   "version": "0.1.0",
   "author": "Evgeny Leukhin <e.leukhin@gmail.com>",
+  "scripts": {
+    "start": "npm run develop",
+    "develop": "gatsby develop",
+    "build": "gatsby build",
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public",
+    "serve": "gatsby serve",
+    "format": "prettier --write src/**/*.{js,jsx}",
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\""
+  },
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/EvgenyLeukhin/effective-english/issues"
   },
   "dependencies": {
     "gatsby": "^2.9.11",
@@ -39,23 +48,12 @@
   "devDependencies": {
     "prettier": "^1.18.2"
   },
-  "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",
-  "keywords": [
-    "gatsby"
-  ],
+  "homepage": "https://github.com/EvgenyLeukhin/effective-english#readme",
+  "keywords": ["gatsby"],
   "license": "MIT",
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gatsbyjs/gatsby-starter-blog.git"
-  },
-  "scripts": {
-    "start": "npm run develop",
-    "develop": "gatsby develop",
-    "build": "gatsby build",
-    "deploy": "gatsby build --prefix-paths && gh-pages -d public",
-    "serve": "gatsby serve",
-    "format": "prettier --write src/**/*.{js,jsx}",
-    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\""
+    "url": "git+https://github.com/EvgenyLeukhin/effective-english.git"
   }
 }
