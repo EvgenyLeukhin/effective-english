@@ -6,11 +6,7 @@
   "author": "Evgeny Leukhin <e.leukhin@gmail.com>",
   "scripts": {
     "start": "gatsby develop",
-    "build": "gatsby build",
-    "deploy": "gatsby build --prefix-paths && gh-pages -d public",
-    "serve": "gatsby serve",
-    "format": "prettier --write src/**/*.{js,jsx}",
-    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\""
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public"
   },
   "bugs": {
     "url": "https://github.com/EvgenyLeukhin/effective-english/issues"
