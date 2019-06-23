@@ -15,7 +15,7 @@ class Layout extends React.Component {
           style={{
             ...scale(1.5),
             marginBottom: rhythm(1.5),
-            marginTop: 0,
+            marginTop: 0
           }}
         >
           <Link
@@ -60,7 +60,7 @@ class Layout extends React.Component {
           padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
         }}
       >
-        <header>{header}</header>
+        <header>{header}</header> 
         <main>{children}</main>
         <footer>
           © {new Date().getFullYear()}, Built with
