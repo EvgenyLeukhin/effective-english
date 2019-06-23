@@ -2,6 +2,7 @@
 
 Blog for learning English course in Effective band
 
+0. `npm i` - install packages
 1. `npm start` - start project localy
 2. Create new folder (```./content/blog/```) and new md-file inside that folder to create new article
 3. `npm deploy` - deploy to Github-pages
