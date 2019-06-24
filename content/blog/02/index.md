@@ -44,6 +44,12 @@ Present Continuous (оно же Present Progressive) — это настояще
 
 > Such a wonderful place here.
 
+## Examples
+
+> I'm going to my job.
+
+> We're standing in the airport.
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pz8zEqhGleY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Email abbrs
