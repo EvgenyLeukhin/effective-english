@@ -51,20 +51,3 @@ Present Continuous (оно же Present Progressive) — это настояще
 > We're standing in the airport.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pz8zEqhGleY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-## Email abbrs
->**FYI** - for your information
-
->**ASAP** - as soon as posible
-
->**CV** - Curriculum vitae(в переводе с лат. — «ход жизни») - подробный опыт работы
-
->**Resume** - 1 page short resume
-
->**To catch up** - войти в курс дела
-
->**Behind of schedule / ahead of schedule** - Позади плана / Впереди плана
-
->**Set deadline / meet deadline** - Установить / Достигнуть
-
->**Please find attached** - Найдите во вложении
