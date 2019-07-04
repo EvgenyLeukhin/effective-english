@@ -8,7 +8,7 @@ Present Perfect (Present Perfect Simple) – настоящее совершен
 
 Действие, которое произошло в прошлом, но связано с НАСТОЯЩИМ моментом.
 
-# Use
+## Use
 1. Повторяющиеся действия 
 > I have been in France 3 times
 
@@ -26,7 +26,7 @@ Present Perfect (Present Perfect Simple) – настоящее совершен
 
 > I lived in England for 5 years (Past Simple, уже не живу)
 
-# Marker-words 
+## Marker-words 
 > 1 time, 2 times, ..., already, just, never, still
 
 ### Формула: Подлежащее + have/has + глагол в 3 форме или + ed
@@ -37,3 +37,10 @@ Present Perfect (Present Perfect Simple) – настоящее совершен
 |*He/She/It* **has done** this work|*He/She/It* **has not(hasn't) done** this work|**Has** *He/She/It* **done** this work?|
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DInKEo2hiVM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Homework
+1. I have prouded of my family and many people who do our life better.
+2. I have suprised when I knew about some footbolist. Like Leo Messi & Cristiano Ronaldo, this players have won 5 golden balls each other.
+3. Yes, I've performed on public with signing songs with acoustic guitar.
+4. No, unfortunately, I have not, but maybe in the futere I'll do something.
+5. I have visited only 2 countries. In this contries I liked many old buildings, cuisine and a nature.
