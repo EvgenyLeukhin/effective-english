@@ -40,7 +40,7 @@ Present Perfect (Present Perfect Simple) – настоящее совершен
 
 ## Homework
 1. I have prouded of my family and many people who do our life better.
-2. I have suprised when I knew about some footbolist. Like Leo Messi & Cristiano Ronaldo, this players have won 5 golden balls each other.
+2. I have suprised when I knew about some footbolists. Like Leo Messi & Cristiano Ronaldo, this players have won 5 golden balls each other. This a greatest amazing football achievement. No one has been able to achieve such results in the past.
 3. Yes, I've performed on public with signing songs with acoustic guitar.
 4. No, unfortunately, I have not, but maybe in the futere I'll do something.
 5. I have visited only 2 countries. In this contries I liked many old buildings, cuisine and a nature.
