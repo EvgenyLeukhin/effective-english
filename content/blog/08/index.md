@@ -1,5 +1,5 @@
 ---
-title: 08 - Cusine
+title: 08 - Cusine ✓
 date: "2019-07-04"
 description: Cusine, food, restaurant 
 ---

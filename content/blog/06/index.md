@@ -1,5 +1,5 @@
 ---
-title: 06 - Work/Job
+title: 06 - Work/Job ✓
 date: "2019-06-27"
 description: Work/Job phrases, 
 ---
