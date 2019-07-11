@@ -22,6 +22,10 @@ description: Cusine, food, restaurant
 
 > **order** - *Заказ*
 
+> **meal** - *Блюдо (в широком смысле)*
+
+> **Enjoy your meal!** - *Приятного аппетита*
+
 ## Food
 
 **herbs**, **spice**, **pepper**, **garlic**, **vegetables**, **tomatos**, **onions**, **bread**
