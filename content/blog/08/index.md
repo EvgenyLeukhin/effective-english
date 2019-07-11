@@ -28,7 +28,7 @@ description: Cusine, food, restaurant
 
 ## Food
 
-**herbs**, **spice**, **pepper**, **garlic**, **vegetables**, **tomatos**, **onions**, **bread**
+**herbs**, **spice**, **pepper**, **garlic**, **vegetables**, **tomatos**, **onions**, **bread**, **sauce**, **salt, G)**, **mustard**, **ketchup**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IW7IssCKgmI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
