@@ -1,5 +1,5 @@
 ---
-title: 05 - Past continuous (I was doing) ✓
+title: 05 - Past Continuous (I was doing) ✓
 date: "2019-06-25"
 description: Past continuous, was/were + V-ing, Like
 ---

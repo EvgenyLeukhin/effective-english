@@ -1,5 +1,5 @@
 ---
-title: 09 - Future simple (I will do) ✓
+title: 09 - Future Simple (I will do) ✓
 date: "2019-07-09"
 description: Future simple, to get
 ---
@@ -36,11 +36,7 @@ description: Future simple, to get
 |-|-|**Will** *You/He/She/It/They* go home?|
 
 ## Marker-words
-> tommorow
-
-> next year, week, month, ...
-
-> in five years
+> tommorow, next year, week, month, in five years, ...
 
 ## Shall или will?
 

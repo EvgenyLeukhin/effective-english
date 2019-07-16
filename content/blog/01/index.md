@@ -1,5 +1,5 @@
 ---
-title: 01 - Present simple (I do) ✓
+title: 01 - Present Simple (I do) ✓
 date: "2019-06-11"
 description: Present simple, This-that, Colors
 ---
