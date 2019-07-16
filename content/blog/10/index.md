@@ -1,5 +1,5 @@
 ---
-title: 10 - Future events w\o Future Simple
+title: 10 - Future events w\o Future Simple ✓
 date: "2019-07-11"
 description: Something 
 ---
