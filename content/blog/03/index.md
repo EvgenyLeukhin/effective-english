@@ -18,9 +18,16 @@ Ecли глагол правильный, то в этой форме нужно
 |---|---|---|
 |I worked in the garden|I *did not(didn't)* **work** in the garden|Did I work in the garden?|
 
+В ? и - формах did берет временную нагрузку на себя и глагол остается без окончания -ed.
+
 ## Неправильные глаголы (irregular)
-В Past Simple их нужно перевести во вторую форму
+В Past Simple их нужно перевести во вторую форму. В ? и - формах did берет временную нагрузку на себя и глагол остается в первой форме.
+
 > She went to the store this afternoon.
+
+|+|- (did not, didn't)|? (Did)|
+|---|---|---|
+|I built in the garden|I *did not(didn't)* **build** in the garden|Did I build in the garden?|
 
 ## Marker-words
 > 5 days ago, yesterday, last year, in 1986, on Sunday
