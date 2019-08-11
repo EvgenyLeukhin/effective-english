@@ -32,3 +32,5 @@ Have got don't use in the Past
 > **Owes me a favour** - Оказать услугу
 
 > **Cheer up a friend** - Подбодрить друга
+
+![Image alt text](IMG_20190801_134614.jpg)
