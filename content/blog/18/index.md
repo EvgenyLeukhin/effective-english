@@ -15,4 +15,4 @@ description: New words and phrases
 > Bars, cinemas, night clubs, theatres, cafes, restaraunts, libaries, bookshops, stores, schools, colleges, museums, galleries, bus stations, hospitals, stadiums, leisure centers
 
 ## Describing places
-> Romantic, beautiful, noisly, relaxing, impressive, crowded, pleasant, peaceful, wild
+> Romantic, beautiful, noisly, relaxing, exciting, impressive, crowded, pleasant, peaceful, wild

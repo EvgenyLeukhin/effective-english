@@ -1,7 +1,7 @@
 ---
 title: 13-15 - My vocation ✓
 date: "2019-07-23"
-description: Something
+description: Emails, Surviving, English language
 ---
 ## 13 Emails
 > Customers, order, information, best time to call you, feedback, moving forward
