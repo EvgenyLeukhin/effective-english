@@ -27,6 +27,4 @@ description: New words and phrases
 
 > I couldn’t make coffee for everybody. There weren’t enough cups. (перед существительным)
 
-![Image alt text](./IMG_20190813_140328.jpg)
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gFc6STGTU4w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
