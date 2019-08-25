@@ -32,3 +32,10 @@ description: New words and phrases, Some\any
 ## Homework
 When I was studing at school I have many school-friends in my life. I get on with most of them. But when I was studing at the University I lose touch with almost of all that school-friends, but I get in touch with many university-friends. Later when I have ended styding in my Univercity I lose touch with that friend again. 
 I think,this is very typical story for most people. When some persons have many common things, which unite them, they get in touch, if not - they lose touch and split up. 
+
+## Life examples
+> We met an university
+
+> We get on well most of the time, although we argue sometimes, too.
+
+> We get on ____, because ____

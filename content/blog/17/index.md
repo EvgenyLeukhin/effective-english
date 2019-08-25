@@ -10,6 +10,8 @@ description: New words and phrases
 * **Middle-aged person** *(40-60)*
 * **Old/elderly person** *(60+)*, **Retired person** *(на пенсии 60+)*
 
+> Get a job, get a place of your own, get engaged, get married, have children, have your first kiss, learn to drive a car, retire, start wearing make-up
+
 ## Gradation of Modals
 * **Must / mustn't** *(Обязательно)* | You must to go
 * **Have to / don't have to** *(Должно)*   | You have to go

@@ -72,6 +72,8 @@ description: Present simple, This-that, Colors
 
 > Nick usually goes to school at 7 o'clock.
 
+> What does he or she look?
+
 > Do you go? Does she go?
 
 > Mary is a great friend.
