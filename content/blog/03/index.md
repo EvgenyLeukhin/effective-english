@@ -7,6 +7,7 @@ description: Past Simple, Did, -ed, Second verb form, Personality
 Past Simple указывает на простое действие в прошлом, регулярные или повторявшиеся действия в прошлом или перечисление последовавших действий в прошлом.
 
 ## Правильные глаголы (regular)
+
 Ecли глагол правильный, то в этой форме нужно добавить к нему окончание "ed", "d" - если глагол заканчивается на "e" или "ied", если заканчивается на "y".
 > Work -> Worked
 
@@ -21,6 +22,7 @@ Ecли глагол правильный, то в этой форме нужно
 В ? и - формах did берет временную нагрузку на себя и глагол остается без окончания -ed.
 
 ## Неправильные глаголы (irregular)
+
 В Past Simple их нужно перевести во вторую форму. В ? и - формах did берет временную нагрузку на себя и глагол остается в первой форме.
 
 > She went to the store this afternoon.
@@ -30,11 +32,13 @@ Ecли глагол правильный, то в этой форме нужно
 |I built in the garden|I *did not(didn't)* **build** in the garden|Did I build in the garden?|
 
 ## Marker-words
+
 > 5 days ago, yesterday, last year, in 1986, on Sunday
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qR0yYCf2qxQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Personality
+
 <div style="display: flex; flex-wrap: wrap;">
   <span>Active</span>,&nbsp;
   <span>Friendly</span>,&nbsp;

@@ -4,7 +4,12 @@ date: "2019-06-20"
 description:  Email abbrs, business correspondence
 ---
 
+## Phrases
+
+> Mr. John Smith, Best regards
+
 ## Email abbrs
+
 >**FYI** - for your information
 
 >**To whome it may concern** - Кого это может касаться (если не знаем)
@@ -31,9 +36,8 @@ description:  Email abbrs, business correspondence
 
 >**Give the green light** - Дать "зеленый свет"
 
-
-
 ## Homework
+
 1. Please, send me answer about your dissigion, ASAP.
 2. I checked your Resume, our manager will contact with you today or tommorow.
 3. FYI: the plain will arrive at the airport in 3 a.m.
