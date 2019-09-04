@@ -1,7 +1,7 @@
 ---
-title: 24 - Medicine
+title: 24 - Medicine ✓
 date: "2019-08-29"
-description: Medicine terminology ✓
+description: Medicine terminology
 ---
 
 # Terminology
