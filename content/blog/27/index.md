@@ -1,5 +1,5 @@
 ---
-title: 27 - Court
+title: 27 - Court ✓
 date: "2019-09-10"
 description: Court terminology
 ---

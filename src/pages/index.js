@@ -5,6 +5,8 @@ import Layout from "../components/layout"
 import SEO from "../components/seo"
 import { rhythm } from "../utils/typography"
 
+import image from './tenses.jpg';
+
 class BlogIndex extends React.Component {
   render() {
     const { data, location } = this.props
@@ -33,6 +35,9 @@ class BlogIndex extends React.Component {
             </div>
           )
         })}
+
+        <h3>Tenses in English</h3>
+        <img src={image} />
       </Layout>
     )
   }
