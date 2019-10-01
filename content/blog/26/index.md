@@ -1,5 +1,5 @@
 ---
-title: 26 - Begin phrases / Meetiings / Transcription
+title: 26 - Begin phrases / Meetiings / Transcription ✓
 date: "2019-09-05"
 description: Begin phrases, meetiings phrases, transcriptions schemas
 ---
