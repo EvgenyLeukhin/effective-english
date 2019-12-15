@@ -1,92 +1,53 @@
 ---
-title: 40 - Reported speech
-date: "2019-10-26"
-description: Time shifting
+title: 40-49 - November/December lessons
+date: "2019-12-01"
+description: Thank-you emails, Introductory worlds, Food
 ---
 
-Речь бывает прямой и косвенной. Прямая - это речь от первого лица.
+## Thank-you emails
 
-## Direct speech
+1. Greeting (Приветствие)
 
-Передача чьих-либо слов буквально напрямую, также как это было сказано.
+> Dear Tom!
 
-```They said, "We have signed the contract".```
+2. Discription (Описание)
 
-## Reported speech
+> Just a quick note to say thanks so much ...
 
-Передача чьих-либо слов косвенно, посредством "себя", через "репортера".
+3. Wishes (Пожелание)
 
-При этом будет изменяться личное местоимение и время глагола, на "шаг назад" в прошлое.
+> See you later, best wishes, see you soon
 
-```They said, (that) they had signed the contract.```
+4. Signature (Подпись)
 
-## Change verb construction in reported speech
+> Evgeny Leukhin
 
-> Present Simple -> Past Simple
+## Introductory worlds (Вводные слова)
 
-* ```I work for Google```
+> to begin with, firstly, secondly, thirdly, moreover (более того), in addition, besides (между прочим), however (однако), first of all, also
 
-* ```He said, he worked for Google```
+> I would like to mention (упомянуть), ... to note (заметть), ... to underline, ... to notice (отметить), ... to add
 
----
+> All in all (в конце концов), to sum it up (подведя итоги)
 
-> Present Continous -> Past Continous
+> It is an open secret, that ... (Не для кого не секрет, что)
 
-* ```I'm working on this project```
+## Food vocabulary
 
-* ```He said, he was working that project```
+> food/meal, taste, meat, dish (блюдо), cusine, 
 
----
+> Stuffing (начинка), baked (печеный), boiled (вареный), fresh (свежий), fried (жареный на масле), grilled (на грилле), raw (сырой), roast (жареный без масла), savoury (пряный), spicy (острый), sweet (сладкий), salty (соленый), bitter (горький)
 
-> Present Perfect -> Past Perfect
+## Troubleshooting
 
-* ```I have finished this project``
+### SWOT analysis
 
-* ```He said he had finished this project``
+* Strengths(сильные стороны)
 
----
+* Weaknesses (слабые стороны)
 
-> Past Simple -> Past Perfect
+* Opportunities (возможность)
 
-* ```I met her before```
+* Theats (угрозы)
 
-* ```He said, he had met her before```
-
----
-
-> Past Continous -> Past Perfect Continous
-
-* ```At this time yesterday I was watching TV```
-
-* ```He said he had been waching TV yesterday```
-
----
-
-> Present Perfect Continous -> Past Perfect Continous
-
-* ```I have been working on this project for 2 weeks``
-
-* ```He said he had been working this project for 2 weeks```
-
----
-
-> Is/are going to -> Was/were going to
-
-* ```I'm going to stay here longer``
-
-* ```He said he was going to stay here longer```
-
----
-
-> Will -> Would, Can -> Could, Must -> Had to
-
-* ```I must go now```  * ```He said he had to go```
-* ```I can do it```  * ```He said he could do it```
-* ```I will come```  * ```He said he would come```
-* ```I may come```  * ```He said he might come```
-
----
-
-> Past Perfect, could, might, mustn't в косвенной речи не меняются
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d4_KY3r8cCA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+e.g. "Exampli gratia" / for example (например)

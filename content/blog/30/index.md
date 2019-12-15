@@ -1,45 +1,92 @@
 ---
-title: 30-39 - October/November lessons ✓
-date: "2019-10-15"
-description: Transport, Influence, Advert, Vacancy, Money, Idioms, Education
+title: 30 - Reported speech ✓
+date: "2019-10-26"
+description: Time shifting
 ---
 
-## 15.10.2019, 17.10.2019 (a/an/the, Transport, Influence)
+Речь бывает прямой и косвенной. Прямая - это речь от первого лица.
 
-> the best, the biggest, the most
+## Direct speech
 
-> moped, motobike, bycycle, taxi, bus, car, ferry, coach, plane, van, train, passenger, padestrian, journey, voyage
+Передача чьих-либо слов буквально напрямую, также как это было сказано.
 
-> Follower, leader, follow a crowd, persuade (убеждать) other people, fashion victim, use to (привычка)
+```They said, "We have signed the contract".```
 
-## 22.10.2019, 24.10.2019 (Advert)
+## Reported speech
 
-> Advert, channel, comercial break, documentary, pop-up advert, search engine, podcast, films, drama series, soap opera, TV programme, blog, entertaining, annoying
+Передача чьих-либо слов косвенно, посредством "себя", через "репортера".
 
-## 29.10.2019 (Vacancy, HAPPY/SAD/ANGRY)
+При этом будет изменяться личное местоимение и время глагола, на "шаг назад" в прошлое.
 
-> ability, collage, high degree of business awareness (осведомленность), a wide range of interests, ambitions, ability to think innivatively and practically, employees (сотрудники), candidate, personal department
+```They said, (that) they had signed the contract.```
 
-> HAPPY: cheeful, pleased, content, walking on the air, in the seventh heaven
+## Change verb construction in reported speech
 
-> SAD: down at heart, gloomy, downcast, flustrated, miserable
+> Present Simple -> Past Simple
 
-> ANGRY: mad, cross, touchy
+* ```I work for Google```
 
-## 31.10.2019 (Money)
+* ```He said, he worked for Google```
 
-> Goods, discount, marketing, service, coins, banknotes, dollars, pounds, bank, storage, roubles, rich, sallary, oportunites (возможности), debt
+---
 
-> Ear (зарабатывать), spend, store, lose
+> Present Continous -> Past Continous
 
-> bargain (сделака), note (банкнота), cashpoint (банкомат), cash till (кассовый аппарат), cash, credit card, currency (валюта), exchange rate, receipt(чек), bill, wallet (бумажник), purse (кошелек), morgage(ипотека), loan (кредит)
+* ```I'm working on this project```
 
-> cheat (обманщик), fare (плата), essential(важный), determine (определять)
+* ```He said, he was working that project```
 
-## 05.11.2019, 07.11.2019 (Idioms)
+---
 
-> I had a flat (спустило колесо), lucky you, I'm all ears, read my mind, between you and me, count on me, my lips are seled, lose face, do me a favor, It'll make me look (я буду выглядеть), Get me in trouble
+> Present Perfect -> Past Perfect
 
-## 12.11.2019, 14.11.2019 (Education)
+* ```I have finished this project``
 
-> be in debt, get a loan, get a prize (награду), pay back a loan, pay fees (обязательный платеж), scholarship (степендия), styding, school, university
+* ```He said he had finished this project``
+
+---
+
+> Past Simple -> Past Perfect
+
+* ```I met her before```
+
+* ```He said, he had met her before```
+
+---
+
+> Past Continous -> Past Perfect Continous
+
+* ```At this time yesterday I was watching TV```
+
+* ```He said he had been waching TV yesterday```
+
+---
+
+> Present Perfect Continous -> Past Perfect Continous
+
+* ```I have been working on this project for 2 weeks``
+
+* ```He said he had been working this project for 2 weeks```
+
+---
+
+> Is/are going to -> Was/were going to
+
+* ```I'm going to stay here longer``
+
+* ```He said he was going to stay here longer```
+
+---
+
+> Will -> Would, Can -> Could, Must -> Had to
+
+* ```I must go now```  * ```He said he had to go```
+* ```I can do it```  * ```He said he could do it```
+* ```I will come```  * ```He said he would come```
+* ```I may come```  * ```He said he might come```
+
+---
+
+> Past Perfect, could, might, mustn't в косвенной речи не меняются
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d4_KY3r8cCA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
