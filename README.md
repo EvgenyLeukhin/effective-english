@@ -1,4 +1,4 @@
-# Effective english +
+# Effective english
 
 Blog for learning English course in Effective band
 
