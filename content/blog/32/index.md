@@ -1,5 +1,5 @@
 ---
-title: 40-49 - November/December lessons
+title: 32 - November/December lessons ✓
 date: "2019-12-01"
 description: Thank-you emails, Introductory worlds, Food
 ---

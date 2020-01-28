@@ -1,5 +1,5 @@
 ---
-title: 31-39 - October/November lessons ✓
+title: 31 - October/November lessons ✓
 date: "2019-10-27"
 description: Transport, Influence, Advert, Vacancy, Money, Idioms, Education
 ---
