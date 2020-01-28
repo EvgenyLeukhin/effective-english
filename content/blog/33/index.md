@@ -10,6 +10,8 @@ description: Thank-you emails, Introductory worlds, Food
 
 > Greeting: Hello everyone ..., 
 
+> I'm responsible for ...
+
 > The first item is ..., Secondly ..., The final item is ...
 
 > Could you add anything ..., 
