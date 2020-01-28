@@ -42,10 +42,46 @@ description: Thank-you emails, Introductory worlds, Food
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fLJpxkoGrU4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## 23.01.2020 ()
+## 23.01.2020
 
 > Remember (помнить)
 
 > Remind (напоминать)
 
 > Memories (воспоминания)
+
+### Plural (множественное число)
+
+> child -> children
+
+> deer -> deer
+
+> fish -> fish
+
+> foot -> feet
+
+> goose -> gees
+
+> knife -> knives
+
+> leaf -> leaves
+
+> man -> men
+
+> woman -> women
+
+> mouse -> mice
+
+> octopus -> octopi
+
+> person -> people
+
+> sheep -> sheep
+
+> footh -> feeth
+
+> wife -> wives
+
+> wolf -> wolves
+
+> ox -> oxen
